@@ -166,7 +166,7 @@ The repository uses Python with browser automation, HTML parsing, local database
       <p><b>Greg Jeffries</b><br>SEO Affiliate Expert<br>★★★★★</p>
     </td>
     <td align="center" width="33%">
-      <img src="media/testimonial-review3.gif" alt="Karan" width="100%">
+      <img src="https://pub-cb2f0eca5bf044e5a45ef184f2ccf85d.r2.dev/posts/all/testimonial-review3.gif" alt="Karan" width="100%">
       <p>It's by far the best tool I've used. Ideal for trend tracking, competitor monitoring, and influencer insights.</p>
       <p><b>Karan</b><br>Digital Strategist<br>★★★★★</p>
     </td>
